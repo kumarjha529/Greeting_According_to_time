@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Greeting_According_to_time/static/css/main.7a3ed0e4.chunk.css",
+    "main.js": "/Greeting_According_to_time/static/js/main.b510dcf6.chunk.js",
+    "main.js.map": "/Greeting_According_to_time/static/js/main.b510dcf6.chunk.js.map",
+    "runtime-main.js": "/Greeting_According_to_time/static/js/runtime-main.f16e157e.js",
+    "runtime-main.js.map": "/Greeting_According_to_time/static/js/runtime-main.f16e157e.js.map",
+    "static/js/2.016d7507.chunk.js": "/Greeting_According_to_time/static/js/2.016d7507.chunk.js",
+    "static/js/2.016d7507.chunk.js.map": "/Greeting_According_to_time/static/js/2.016d7507.chunk.js.map",
+    "index.html": "/Greeting_According_to_time/index.html",
+    "static/css/main.7a3ed0e4.chunk.css.map": "/Greeting_According_to_time/static/css/main.7a3ed0e4.chunk.css.map",
+    "static/js/2.016d7507.chunk.js.LICENSE.txt": "/Greeting_According_to_time/static/js/2.016d7507.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f16e157e.js",
+    "static/js/2.016d7507.chunk.js",
+    "static/css/main.7a3ed0e4.chunk.css",
+    "static/js/main.b510dcf6.chunk.js"
+  ]
+}
